@@ -4,7 +4,7 @@ QuantPhysCollabPythonHWFa23
 BME4409 Quantitative Physiology - Fall 2023
 For the Assignment - Establishing a collaborative python environment, you are charged with two tasks: (1) downloading and installing python (which will come in useful later in the semester when you use Neuron) and (2) contributing to a collaborative coding repository. This assignment is to help establish best practices for creating a collaborate coding environment, which will be important as you start working on your Semester Project.
 
-Task 1: Download and install python
+**Task 1**: Download and **install python**
 
 Install Python 3.11. There are many potential choices of ways to do this, but the easiest is likely using Anaconda
 https://www.anaconda.com/products/individualLinks to an external site.
@@ -14,7 +14,7 @@ Documentation for installing on Windows: https://docs.anaconda.com/anaconda/inst
 Documentation for installing on macOS: https://docs.anaconda.com/anaconda/install/mac-os/Links to an external site.
 Documentation for installing on Linux: https://docs.anaconda.com/anaconda/install/linux/Links to an external site.
 Screenshot your successful installation to turn in.
-Create your first python script with Anaconda
+Create your **first python script** with Anaconda
 Follow along with Getting started with Anaconda: https://docs.anaconda.com/anaconda/user-guide/getting-started/Links to an external site.
 Complete a modified version of the Run Python in Spyder IDE for your sample python code that will be used in Task 2.
 Install Spyder from the Applications pane
@@ -29,7 +29,7 @@ You should be able to see your program’s output in the bottom right of the Con
 To close Spyder, go to the top menu bar, select Spyder – Quit Spyder.
  
 
-Task 2: Create a collaborative coding environment with your group
+**Task 2**: Create a collaborative coding environment with your group
 
 Complete the five steps in Part 1: Configuring your GitHub account in the GitHub Docs 
 https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#part-1-configuring-your-github-accountLinks to an external site.
