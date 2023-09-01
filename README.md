@@ -1,7 +1,7 @@
 # QuantPhysCollabPythonHW
 QuantPhysCollabPythonHWFa23
 
-BME4409 Quantitative Physiology - Fall 2022
+BME4409 Quantitative Physiology - Fall 2023
 For the Assignment - Establishing a collaborative python environment, you are charged with two tasks: (1) downloading and installing python (which will come in useful later in the semester when you use Neuron) and (2) contributing to a collaborative coding repository. This assignment is to help establish best practices for creating a collaborate coding environment, which will be important as you start working on your Semester Project.
 
 Task 1: Download and install python
