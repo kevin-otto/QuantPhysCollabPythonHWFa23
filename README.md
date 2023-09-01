@@ -31,7 +31,7 @@ To close Spyder, go to the top menu bar, select Spyder – Quit Spyder.
 
 **Task 2**: Create a collaborative coding environment with your group
 
-Complete the five steps in Part 1: Configuring your GitHub account in the GitHub Docs 
+Complete the five steps in **Part 1: Configuring your GitHub account** in the GitHub Docs 
 https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#part-1-configuring-your-github-accountLinks to an external site.
 Watch the "Introduction to GitHub" at GitHub Skills: 
 https://github.com/skills/introduction-to-githubLinks to an external site.
